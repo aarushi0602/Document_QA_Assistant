@@ -1,0 +1,15 @@
+com\aarushi\qa\service\DocumentIngestionService.class
+com\aarushi\qa\config\AsyncConfig.class
+com\aarushi\qa\model\IngestionStatus.class
+com\aarushi\qa\controller\QuestionController.class
+com\aarushi\qa\model\DocumentEntity.class
+com\aarushi\qa\QaAssistantApplication.class
+com\aarushi\qa\rag\RagService.class
+com\aarushi\qa\dto\DocumentResponse.class
+com\aarushi\qa\repository\DocumentRepository.class
+com\aarushi\qa\dto\AskResponse.class
+com\aarushi\qa\dto\Citation.class
+com\aarushi\qa\dto\AskRequest.class
+com\aarushi\qa\controller\DocumentController.class
+com\aarushi\qa\service\DocumentService.class
+com\aarushi\qa\exception\GlobalExceptionHandler.class

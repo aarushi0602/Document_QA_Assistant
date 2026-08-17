@@ -1,0 +1,3 @@
+com\aarushi\qa\DocumentIngestionTest.class
+com\aarushi\qa\TenantIsolationTest.class
+com\aarushi\qa\RagServiceTest.class

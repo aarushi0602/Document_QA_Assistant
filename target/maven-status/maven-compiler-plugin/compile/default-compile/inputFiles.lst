@@ -1,0 +1,15 @@
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\config\AsyncConfig.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\controller\DocumentController.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\controller\QuestionController.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\dto\AskRequest.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\dto\AskResponse.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\dto\Citation.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\dto\DocumentResponse.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\exception\GlobalExceptionHandler.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\model\DocumentEntity.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\model\IngestionStatus.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\QaAssistantApplication.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\rag\RagService.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\repository\DocumentRepository.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\service\DocumentIngestionService.java
+C:\Users\anves\Downloads\qa-assistant-complete-fixed\qa-assistant\src\main\java\com\aarushi\qa\service\DocumentService.java
